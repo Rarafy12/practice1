@@ -1,0 +1,42 @@
+h1{
+	text-align: center;
+	font-family: 'Grandstander', cursive;
+}
+
+.content{
+	text-align: justify;
+	font-size: 25px;
+	
+}
+.image img { 
+	float: right;
+	width: 150px;
+	height: 150px;
+}
+.image{
+	height: 150px;
+	overflow: auto;
+}
+p{
+	color: green;
+	font-size: 23px;
+}
+.attitude{
+	color: green;
+	font-size: 25px;
+}
+table{
+	width: 1300px;
+}
+td{
+	text-align: center;
+}
+ol{
+	color:green;
+}
+.education{
+	font-size: 25px;
+}
+.extra{
+	font-size: 25px;
+}
